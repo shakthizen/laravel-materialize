@@ -1,1 +1,1 @@
-# laravel-materialize
+# Materilize CSS for Laravel
