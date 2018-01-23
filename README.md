@@ -25,4 +25,4 @@ This will help you to start your Materialize Laravel project easyly.
 - Do whatever you want **:)**
 
 
-> Hope this helps
+#### Hope this helps :)
